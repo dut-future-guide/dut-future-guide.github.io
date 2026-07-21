@@ -1,0 +1,97 @@
+site_name: DUT 未来技术学院生存指南
+site_description: 一份由学生共同维护的、非官方的未来技术学院成长指南
+site_author: DUT Future Students
+
+repo_name: zhangzhengtu/DUT-Future-Guide
+repo_url: https://github.com/zhangzhengtu/DUT-Future-Guide
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: 切换至深色模式
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
+  icon:
+    logo: material/school
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 首页: index.md
+
+  - 序言:
+      - 序言一: preface/index1.md
+      - 序言二: preface/index2.md
+      - 阅读说明与免责声明: preface/disclaimer.md
+
+  - 精神内核:
+      - 什么是大学: core/university.md
+      - 未来学院的高保研率意味着什么: core/future-school.md
+      - 大学生存方法论: core/survival-methodology.md
+
+  - AI成长主线:
+      - 总览: ai-roadmap/index.md
+      - 基础工具箱: ai-roadmap/tools.md
+      - AI学习基础路线: ai-roadmap/ai-basic-roadmap.md
+      - 如何选择AI方向: ai-roadmap/choose-direction.md
+      - LLM: ai-roadmap/llm.md
+      - CV: ai-roadmap/cv.md
+      - 机器人与具身智能: ai-roadmap/embodied-ai.md
+      - AI for Science: ai-roadmap/ai4science.md
+
+  - 未院特色路径:
+      - 课程学习篇: future-school-path/courses.md
+      - 竞赛与项目篇: future-school-path/competitions.md
+      - 科研篇: future-school-path/research.md
+      - 升学篇: future-school-path/graduate-school.md
+
+  - 学长学姐路线:
+      - 总览: stories/index.md
+      - 投稿模板: stories/story-template.md
+
+  - 附录:
+      - 贡献指南: appendix/contribution.md
+      - 更新日志: appendix/changelog.md
