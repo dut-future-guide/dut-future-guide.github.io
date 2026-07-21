@@ -14,5 +14,13 @@ python -m pip install mkdocs-material
 
 执行：
 
-```bash
 mkdocs serve
+
+3. 更新
+
+写完后：
+
+mkdocs build
+git add .
+git commit -m "update guide content"
+git push
