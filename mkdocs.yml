@@ -39,6 +39,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -51,6 +55,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -84,9 +90,20 @@ nav:
 
   - 未院特色路径:
       - 课程学习篇: future-school-path/courses.md
-      - 竞赛与项目篇: future-school-path/competitions.md
+      - 竞赛篇:
+          - 竞赛作用是什么: future-school-path/competitions/role.md
+          - 挑战杯、互联网+: future-school-path/competitions/challenge-cup-internet-plus.md
+          - ICPC / 算法竞赛: future-school-path/competitions/icpc.md
+          - RoboMaster: future-school-path/competitions/robomaster.md
+          - RoboCup与其他机器人竞赛: future-school-path/competitions/robocup-robotics.md
+          - 数学建模: future-school-path/competitions/mathematical-modeling.md
+          - 其他竞赛: future-school-path/competitions/other-competitions.md
       - 科研篇: future-school-path/research.md
-      - 升学篇: future-school-path/graduate-school.md
+      - 升学篇:
+          - 升学认知: future-school-path/graduate-school/know-how.md
+          - 保研流程: future-school-path/graduate-school/recommendation-process.md
+          - 申请流程: future-school-path/graduate-school/application-process.md
+          - 往届去向: future-school-path/graduate-school/alumni-destinations.md
 
   - 学长学姐路线:
       - 总览: stories/index.md
