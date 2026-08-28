@@ -1,9 +1,10 @@
 site_name: DUT 未来技术学院生存指南
 site_description: 一份由学生共同维护的、非官方的未来技术学院成长指南
-site_author: DUT Future Students
+site_author: DUT Future Guide Contributors
+site_url: https://dut-future-guide.github.io/
 
-repo_name: zhangzhengtu/DUT-Future-Guide
-repo_url: https://github.com/zhangzhengtu/DUT-Future-Guide
+repo_name: dut-future-guide/dut-future-guide.github.io
+repo_url: https://github.com/dut-future-guide/dut-future-guide.github.io
 edit_uri: edit/main/docs/
 
 theme:

@@ -99,6 +99,31 @@
   color: var(--md-default-fg-color);
 }
 
+.lab-ad {
+  margin: 1.8rem 0 2rem;
+  padding: 1rem 1.1rem 1.15rem;
+  border: 1px solid rgba(0, 137, 123, 0.22);
+  border-left: 0.25rem solid var(--dut-accent-2);
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(0, 137, 123, 0.08), var(--dut-soft));
+}
+
+.lab-ad p:first-child {
+  margin-top: 0;
+}
+
+.lab-ad p:last-child {
+  margin-bottom: 0;
+}
+
+.lab-ad img {
+  display: block;
+  width: min(100%, 34rem);
+  margin: 0.85rem auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 28px rgba(33, 41, 54, 0.14);
+}
+
 .decision-table table {
   font-size: 0.72rem;
 }
