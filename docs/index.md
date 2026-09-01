@@ -22,6 +22,13 @@
 
 </div>
 
+<div class="quick-path" markdown>
+
+**如果这份指南帮到了你：**  
+欢迎给 [dut-future-guide/dut-future-guide.github.io](https://github.com/dut-future-guide/dut-future-guide.github.io) 点一个 Star，也欢迎分享给你身边的任何人，让多一些人看到这个指南。也愿你在离开这里之后，继续以同样的善意面对这个世界。
+
+</div>
+
 ## 主要章节
 
 <div class="grid cards" markdown>
