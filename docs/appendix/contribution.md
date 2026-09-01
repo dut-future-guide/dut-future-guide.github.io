@@ -21,7 +21,7 @@
 
 ### 涂章正
 
-<p class="contributor-contact">18720910896（微信同号）<br>zhangzhengtu.github.io/ </p>
+<p class="contributor-contact">18720910896（微信同号）<br>zhangzhengtu.github.io </p>
 
 <p class="contributor-work">Project Leader<br>机器人与具身智能部分<br>成长经历分享部分</p>
 
@@ -36,6 +36,114 @@
 <p class="contributor-contact">微信：liubw20050702</p>
 
 <p class="contributor-work">ICPC部分<br>成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![赵建斌](assets/zhaojianbin.jpg)
+
+### 赵建斌
+
+<p class="contributor-contact">微信：dyxxzbb2004</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![幸子杰](assets/xingzijie.jpg)
+
+### 幸子杰
+
+<p class="contributor-contact">微信：creeperLOL</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![recynie](assets/recynie.jpg)
+
+### recynie
+
+<p class="contributor-contact">recynie.github.io</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![励逸](assets/liyi.jpg)
+
+### 励逸
+
+<p class="contributor-contact">微信：Andy256947797</p>
+
+<p class="contributor-work">RM篇</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![翟鹏宇](assets/zhaipengyu.jpg)
+
+### 翟鹏宇
+
+<p class="contributor-contact">微信：zhai_py</p>
+
+<p class="contributor-work">RoboCup 与其他机器人竞赛</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![关中吟](assets/guanzhongyin.jpg)
+
+### 关中吟
+
+<p class="contributor-contact">qycqhszt0314@163.com</p>
+
+<p class="contributor-work">大二课程</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![草木深](assets/caomushen.jpg)
+
+### 草木深
+
+<p class="contributor-contact">3930648340@qq.com</p>
+
+<p class="contributor-work">小挑</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![徐一格](assets/xuyige.jpg)
+
+### 徐一格
+
+<p class="contributor-contact">微信：XYGya1021</p>
+
+<p class="contributor-work">大一课程</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![李子忆](assets/liziyi.jpg)
+
+### 李子忆
+
+<p class="contributor-contact">微信：a2076490958</p>
+
+<p class="contributor-work">留学申请部分</p>
 
 </div>
 

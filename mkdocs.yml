@@ -69,43 +69,45 @@ markdown_extensions:
 nav:
   - 首页: index.md
 
-  - 序言:
-      - 序言一: preface/index1.md
+  - 开始之前:
+      - 序言: preface/index1.md
       - 阅读说明与免责声明: preface/disclaimer.md
-
-  - 精神内核:
       - 什么是大学: core/university.md
-      - 未来学院的高保研率意味着什么: core/future-school.md
       - 大学生存方法论: core/survival-methodology.md
+      - 未来学院意味着什么: core/future-school.md
 
-  - AI成长主线:
+  - AI 成长主线:
       - 总览: ai-roadmap/index.md
       - 基础工具箱: ai-roadmap/tools.md
-      - AI学习基础路线: ai-roadmap/ai-basic-roadmap.md
-      - 如何选择AI方向: ai-roadmap/choose-direction.md
+      - AI 学习基础路线: ai-roadmap/ai-basic-roadmap.md
+      - 如何选择 AI 方向: ai-roadmap/choose-direction.md
       - LLM: ai-roadmap/llm.md
       - CV: ai-roadmap/cv.md
       - 机器人与具身智能: ai-roadmap/embodied-ai.md
       - AI for Science: ai-roadmap/ai4science.md
 
-  - 未院特色路径:
-      - 课程学习篇: future-school-path/courses.md
-      - 竞赛篇:
+  - 未院生存路径:
+      - 课程学习:
+          - 总览: future-school-path/courses/index.md
+          - 大一课程: future-school-path/courses/freshman.md
+          - 大二课程: future-school-path/courses/sophomore.md
+      - 科研入门: future-school-path/research.md
+      - 竞赛选择:
           - 竞赛作用是什么: future-school-path/competitions/role.md
-          - 挑战杯、互联网+: future-school-path/competitions/challenge-cup-internet-plus.md
           - ICPC / 算法竞赛: future-school-path/competitions/icpc.md
           - RoboMaster: future-school-path/competitions/robomaster.md
-          - RoboCup与其他机器人竞赛: future-school-path/competitions/robocup-robotics.md
+          - RoboCup 与其他机器人竞赛: future-school-path/competitions/robocup-robotics.md
+          - 挑战杯、互联网+: future-school-path/competitions/challenge-cup-internet-plus.md
           - 其他竞赛: future-school-path/competitions/other-competitions.md
-      - 科研篇: future-school-path/research.md
-      - 升学篇:
-          - 升学认知: future-school-path/graduate-school/know-how.md
-          - 保研流程: future-school-path/graduate-school/recommendation-process.md
-          - 申请流程:
-              - 总览: future-school-path/graduate-school/application-process.md
-              - 项目、费用、认证与身份: future-school-path/graduate-school/application-process/projects-costs-and-risk.md
-              - 材料、时间线与 Offer: future-school-path/graduate-school/application-process/materials-timeline-and-offers.md
-          - 往届去向: future-school-path/graduate-school/alumni-destinations.md
+
+  - 升学:
+      - 升学认知: future-school-path/graduate-school/know-how.md
+      - 保研流程: future-school-path/graduate-school/recommendation-process.md
+      - 留学申请:
+          - 总览: future-school-path/graduate-school/application-process.md
+          - 项目、费用、认证与身份: future-school-path/graduate-school/application-process/projects-costs-and-risk.md
+          - 材料、时间线与 Offer: future-school-path/graduate-school/application-process/materials-timeline-and-offers.md
+      - 往届去向: future-school-path/graduate-school/alumni-destinations.md
 
   - 学长学姐路线:
       - 总览: stories/index.md
@@ -116,5 +118,5 @@ nav:
       - recynie: stories/recynie.md
       - 投稿模板: stories/story-template.md
 
-  - 附录:
-      - 贡献指南: appendix/contribution.md
+  - 贡献:
+      - 贡献者与参与方式: appendix/contribution.md

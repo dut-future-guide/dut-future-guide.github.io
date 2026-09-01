@@ -18,7 +18,7 @@
 <div class="quick-path" markdown>
 
 **不知道从哪开始？**  
-如果你刚入学，先读「精神内核」；如果你已经决定学 AI，直接进入「AI 成长主线」；如果你正在纠结课程、竞赛、科研和升学，去看「未院特色路径」。
+如果你刚入学，先读「开始之前」；如果你已经决定学 AI，直接进入「AI 成长主线」；如果你正在纠结课程、竞赛和科研，去看「未院生存路径」；如果你已经开始考虑保研或留学，直接看「升学与申请」。
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-compass-outline: **精神内核**
+-   :material-compass-outline: **开始之前**
 
     ---
 
@@ -49,13 +49,21 @@
 
     [进入章节](ai-roadmap/index.md)
 
--   :material-rocket-launch: **未院特色路径**
+-   :material-rocket-launch: **未院生存路径**
 
     ---
 
-    面向课程、竞赛、科研、升学这些更具体的选择，讨论在未院体制下如何安排节奏。
+    面向课程、竞赛、科研这些更具体的选择，讨论在未院体制下如何安排节奏。
 
-    [进入章节](future-school-path/courses.md)
+    [进入章节](future-school-path/courses/index.md)
+
+-   :material-school-outline: **升学与申请**
+
+    ---
+
+    理解继续读书、保研流程、留学申请、项目费用和往届去向，提前管理信息差和时间线。
+
+    [进入章节](future-school-path/graduate-school/know-how.md)
 
 -   :material-account-group: **学长学姐路线**
 
