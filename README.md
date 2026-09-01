@@ -30,6 +30,6 @@ mkdocs serve
 ```bash
 mkdocs build
 git add .
-git commit -m "update guide content"
+git commit -m "update story content"
 git push
 ```
