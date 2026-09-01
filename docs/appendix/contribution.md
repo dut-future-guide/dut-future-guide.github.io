@@ -11,6 +11,15 @@
 
 </div>
 
+<div class="quick-path" markdown>
+
+**联系前的小提醒：**  
+如果你想添加学长（似乎目前没有学姐，我太区了）的微信，请在好友申请里备注自己的名字，也请尽量确保你已经认真阅读过本指南，对相关内容有自己的思考和具体问题。这样对方更容易判断如何回应，也能让交流真正有价值。
+
+如果你只是单纯想找个人聊聊或者进行一点无害骚扰，可以优先添加刘博文同学的微信，他喜欢被骚扰。
+
+</div>
+
 ## 贡献者名单
 
 <div class="contributor-grid" markdown>
@@ -69,7 +78,7 @@
 
 ### recynie
 
-<p class="contributor-contact">recynie.github.io</p>
+<p class="contributor-contact">微信：ourskylxy <br> recynie.github.io</p>
 
 <p class="contributor-work">成长经历分享部分</p>
 
