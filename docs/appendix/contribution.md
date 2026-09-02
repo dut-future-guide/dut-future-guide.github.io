@@ -156,4 +156,28 @@
 
 </div>
 
+<div class="contributor-card" markdown>
+
+![丛渝轩](assets/congyuxuan.jpg)
+
+### [丛渝轩](../stories/congyuxuan.md)
+
+<p class="contributor-contact">微信：Duters2023</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![胡洛铭](assets/huluoming.jpg)
+
+### 胡洛铭
+
+<p class="contributor-contact">微信：Sc_i1ent</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
 </div>
