@@ -160,7 +160,7 @@
 
 ![丛渝轩](assets/congyuxuan.jpg)
 
-### [丛渝轩](../stories/congyuxuan.md)
+### 丛渝轩
 
 <p class="contributor-contact">微信：Duters2023</p>
 
@@ -184,7 +184,7 @@
 
 ![摆舸](assets/baige.jpg)
 
-### [摆舸](../stories/baige.md)
+### 摆舸
 
 <p class="contributor-contact">微信：bg121231234</p>
 
@@ -196,7 +196,7 @@
 
 ![木](assets/mu.jpg)
 
-### [木](../stories/mu.md)
+### 木
 
 <p class="contributor-contact">微信：dkmTXWD</p>
 
@@ -208,7 +208,7 @@
 
 ![王俊博](assets/wangjunbo.jpg)
 
-### [王俊博](../stories/wangjunbo.md)
+### 王俊博
 
 <p class="contributor-contact">微信：Wovoey__0411</p>
 
