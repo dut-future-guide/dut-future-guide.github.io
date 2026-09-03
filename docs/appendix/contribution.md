@@ -180,4 +180,40 @@
 
 </div>
 
+<div class="contributor-card" markdown>
+
+![摆舸](assets/baige.jpg)
+
+### [摆舸](../stories/baige.md)
+
+<p class="contributor-contact">微信：bg121231234</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![木](assets/mu.jpg)
+
+### [木](../stories/mu.md)
+
+<p class="contributor-contact">微信：dkmTXWD</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
+![王俊博](assets/wangjunbo.jpg)
+
+### [王俊博](../stories/wangjunbo.md)
+
+<p class="contributor-contact">微信：Wovoey__0411</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
 </div>
