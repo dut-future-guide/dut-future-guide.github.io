@@ -28,13 +28,18 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
       - name: Install dependencies
         run: |
-          pip install mkdocs-material
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
 
       - name: Build site
         run: |
           mkdocs build --strict
+          touch site/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
