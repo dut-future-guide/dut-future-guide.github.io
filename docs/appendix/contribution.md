@@ -206,6 +206,18 @@
 
 <div class="contributor-card" markdown>
 
+![卫昊坤](assets/wei.jpg)
+
+### 卫昊坤
+
+<p class="contributor-contact">微信：wei1980865325</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
+<div class="contributor-card" markdown>
+
 ![王俊博](assets/wangjunbo.jpg)
 
 ### 王俊博
@@ -217,3 +229,4 @@
 </div>
 
 </div>
+
