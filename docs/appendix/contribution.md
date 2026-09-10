@@ -228,5 +228,17 @@
 
 </div>
 
+<div class="contributor-card" markdown>
+
+![Falcary](assets/Falcary.jpg)
+
+### Falcary
+
+<p class="contributor-contact">falcary@outlook.com</p>
+
+<p class="contributor-work">成长经历分享部分</p>
+
+</div>
+
 </div>
 

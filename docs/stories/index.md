@@ -20,3 +20,111 @@
 更重要的是，不要因为别人的经历影响自己的内核。大学不是一场必须按别人路线完成的任务，一切的一切都只是仅供参考。
 
 我们也非常欢迎经历截然不同的同学继续补充：无论你是科研、竞赛、实习、创业、社团、交换、gap、考研、就业，还是单纯认真生活，只要这段经历能给后来者一点真实的参照，它就有被记录下来的价值。
+
+## 20级
+
+<div class="grid cards" markdown>
+
+-   :material-account-star-outline: **Falcary：Taste 决定 Attention，平台决定下限**
+
+    ---
+
+    从绩点、学生工作、科研尝试到外校保研与 PhD 申请，回望一条更早开始探索、也更早意识到取舍代价的路线。
+
+    [阅读分享](<Falcary：Taste 决定 Attention，平台决定下限.md>)
+
+</div>
+
+## 23级
+
+<div class="grid cards" markdown>
+
+-   :material-account-outline: **涂章正：一条并不高效但真实的路**
+
+    ---
+
+    关于机器人竞赛、科研试错、外部合作和具身智能方向选择的个人回望。
+
+    [阅读分享](tuzhnagzheng.md)
+
+-   :material-account-outline: **bowen：一条路究竟怎样**
+
+    ---
+
+    关于 ICPC、算法竞赛和个人成长路线的分享。
+
+    [阅读分享](liubowen.md)
+
+-   :material-account-outline: **赵建斌：那些把我带到今天的选择**
+
+    ---
+
+    从选择、探索和阶段性结果中复盘自己的大学路径。
+
+    [阅读分享](zhaojianbin.md)
+
+-   :material-account-outline: **幸子杰**
+
+    ---
+
+    一段关于大学探索和成长过程的个人记录。
+
+    [阅读分享](xingzijie.md)
+
+-   :material-account-outline: **recynie**
+
+    ---
+
+    关于开源、学习路径与个人成长的一份分享。
+
+    [阅读分享](recynie.md)
+
+-   :material-account-outline: **丛渝轩：不要怕痛苦，勇敢开智**
+
+    ---
+
+    关于经历、痛苦、选择与自我理解的大学回望。
+
+    [阅读分享](congyuxuan.md)
+
+-   :material-account-outline: **胡洛铭：却道天凉好个秋**
+
+    ---
+
+    一段属于 23 级同学的成长经历分享。
+
+    [阅读分享](huluoming.md)
+
+-   :material-account-outline: **摆舸**
+
+    ---
+
+    关于寻找自己、持续探索和接受选择代价的大学叙事。
+
+    [阅读分享](baige.md)
+
+-   :material-account-outline: **木：马拉松跑者的自述**
+
+    ---
+
+    关于长期投入、时间分配和阶段性成长的个人记录。
+
+    [阅读分享](mu.md)
+
+-   :material-account-outline: **王俊博：大学到底应该怎么过？**
+
+    ---
+
+    从绩点、科研、竞赛、健身、恋爱和生活本身重新理解大学。
+
+    [阅读分享](wangjunbo.md)
+
+-   :material-account-outline: **卫昊坤：人生如逆旅，我亦是行人**
+
+    ---
+
+    关于迷茫、选择、经历与反思的大学三年回顾。
+
+    [阅读分享](weihaokun.md)
+
+</div>

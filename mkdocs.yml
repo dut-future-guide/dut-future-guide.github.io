@@ -111,17 +111,20 @@ nav:
 
   - 学长学姐路线:
       - 总览: stories/index.md
-      - 涂章正: stories/tuzhnagzheng.md
-      - 刘博文: stories/liubowen.md
-      - 赵建斌: stories/zhaojianbin.md
-      - 幸子杰: stories/xingzijie.md
-      - recynie: stories/recynie.md
-      - 丛渝轩: stories/congyuxuan.md
-      - 胡洛铭: stories/huluoming.md
-      - 摆舸: stories/baige.md
-      - 木: stories/mu.md
-      - 王俊博: stories/wangjunbo.md
-      - 卫昊坤: stories/weihaokun.md
+      - 20级:
+          - Falcary: stories/Falcary：Taste 决定 Attention，平台决定下限.md
+      - 23级:
+          - 涂章正: stories/tuzhnagzheng.md
+          - 刘博文: stories/liubowen.md
+          - 赵建斌: stories/zhaojianbin.md
+          - 幸子杰: stories/xingzijie.md
+          - recynie: stories/recynie.md
+          - 丛渝轩: stories/congyuxuan.md
+          - 胡洛铭: stories/huluoming.md
+          - 摆舸: stories/baige.md
+          - 木: stories/mu.md
+          - 王俊博: stories/wangjunbo.md
+          - 卫昊坤: stories/weihaokun.md
       - 投稿模板: stories/story-template.md
 
   - 贡献:
