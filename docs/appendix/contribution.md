@@ -104,7 +104,7 @@
 
 <p class="contributor-contact">微信：zhai_py</p>
 
-<p class="contributor-work">RoboCup 与其他机器人竞赛</p>
+<p class="contributor-work">RoboCup 与其他机器人竞赛<br>成长经历分享部分</p>
 
 </div>
 
