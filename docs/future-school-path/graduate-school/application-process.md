@@ -156,6 +156,5 @@ Coming Soon
 
 1. 还没想清楚为什么继续读，先读 [升学认知](know-how.md)。
 2. 如果同时考虑国内推免，读 [保研流程](recommendation-process.md)。
-3. 想根据往届结果校准路线，读 [往届去向](alumni-destinations.md)。
 
 </div>

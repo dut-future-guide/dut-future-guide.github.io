@@ -112,6 +112,5 @@ AI 专业的硕博普遍很卷。你会面对论文、项目、实习、毕业�
 
 1. 已经决定走国内推免，读 [保研流程](recommendation-process.md)。
 2. 想了解申请制项目，读 [申请流程](application-process.md)。
-3. 想校准目标和路径，读 [往届去向](alumni-destinations.md)。
 
 </div>

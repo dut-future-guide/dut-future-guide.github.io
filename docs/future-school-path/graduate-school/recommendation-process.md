@@ -156,6 +156,5 @@
 
 1. 还没想清楚为什么继续读，先读 [升学认知](know-how.md)。
 2. 如果你考虑申请制项目，读 [申请流程](application-process.md)。
-3. 想了解往届路径和去向，读 [往届去向](alumni-destinations.md)。
 
 </div>
