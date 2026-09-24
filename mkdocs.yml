@@ -107,7 +107,8 @@ nav:
           - 总览: future-school-path/graduate-school/application-process.md
           - 项目、费用、认证与身份: future-school-path/graduate-school/application-process/projects-costs-and-risk.md
           - 材料、时间线与 Offer: future-school-path/graduate-school/application-process/materials-timeline-and-offers.md
-      - 往届去向: future-school-path/graduate-school/alumni-destinations.md
+      - 往届去向: 
+          - 涂章正-上海交通大学: future-school-path/graduate-school/results/tuzhangzheng.md
 
   - 学长学姐路线:
       - 总览: stories/index.md
