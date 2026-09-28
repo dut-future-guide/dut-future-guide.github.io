@@ -127,4 +127,14 @@
 
     [阅读分享](weihaokun.md)
 
+
+-   :material-account-outline: **Solitary：慢慢来，可以一直在路上**
+
+    ---
+
+    普通也可以成长，迷茫也可以前行，慢慢来，我们的人生可以一直在路上。
+
+    [阅读分享](Solitary.md)
+
+
 </div>
